@@ -1,0 +1,17 @@
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\VehicleMakes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\VehicleMakes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\VehicleMakes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\VehicleMakes.Infrastructure.AssemblyInfo.cs
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\VehicleMakes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\bin\Debug\net8.0\VehicleMakes.Infrastructure.deps.json
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\bin\Debug\net8.0\VehicleMakes.Infrastructure.runtimeconfig.json
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\bin\Debug\net8.0\VehicleMakes.Infrastructure.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\bin\Debug\net8.0\VehicleMakes.Infrastructure.pdb
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\bin\Debug\net8.0\VehicleMakes.Data.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\bin\Debug\net8.0\VehicleMakes.Data.pdb
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\VehicleM.BB882094.Up2Date
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\VehicleMakes.Infrastructure.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\refint\VehicleMakes.Infrastructure.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\VehicleMakes.Infrastructure.pdb
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\VehicleMakes.Infrastructure.genruntimeconfig.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Infrastructure\obj\Debug\net8.0\ref\VehicleMakes.Infrastructure.dll

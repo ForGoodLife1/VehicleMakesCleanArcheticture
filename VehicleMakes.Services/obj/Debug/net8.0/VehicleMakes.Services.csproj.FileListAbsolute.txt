@@ -1,0 +1,17 @@
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\obj\Debug\net8.0\VehicleMakes.Services.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\obj\Debug\net8.0\VehicleMakes.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\obj\Debug\net8.0\VehicleMakes.Services.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\obj\Debug\net8.0\VehicleMakes.Services.AssemblyInfo.cs
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\obj\Debug\net8.0\VehicleMakes.Services.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\bin\Debug\net8.0\VehicleMakes.Services.deps.json
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\bin\Debug\net8.0\VehicleMakes.Services.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\bin\Debug\net8.0\VehicleMakes.Services.pdb
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\bin\Debug\net8.0\VehicleMakes.Data.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\bin\Debug\net8.0\VehicleMakes.Infrastructure.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\bin\Debug\net8.0\VehicleMakes.Data.pdb
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\bin\Debug\net8.0\VehicleMakes.Infrastructure.pdb
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\obj\Debug\net8.0\VehicleM.0775A122.Up2Date
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\obj\Debug\net8.0\VehicleMakes.Services.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\obj\Debug\net8.0\refint\VehicleMakes.Services.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\obj\Debug\net8.0\VehicleMakes.Services.pdb
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Services\obj\Debug\net8.0\ref\VehicleMakes.Services.dll
