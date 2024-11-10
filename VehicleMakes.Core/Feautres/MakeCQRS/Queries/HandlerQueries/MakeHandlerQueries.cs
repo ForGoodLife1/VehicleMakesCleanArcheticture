@@ -1,8 +1,5 @@
 ﻿/*using AutoMapper;
 using MediatR;
-using VehicleMakes.Core.Feautres.MakeCQRS.Queries.ModelQueries;
-using VehicleMakes.Core.Feautres.MakeCQRS.Queries.ResponseQueries;
-using VehicleMakes.Services.IServices;
 
 namespace VehicleMakes.Core.Feautres.MakeCQRS.Queries.HandlerQueries
 {

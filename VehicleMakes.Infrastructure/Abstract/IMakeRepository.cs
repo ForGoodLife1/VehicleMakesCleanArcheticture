@@ -7,6 +7,6 @@ namespace VehicleMakes.Infrastructure.Abstract
     {
 
 
-        public Task<List<Make>> GetStudentsListAsync();
+
     }
 }

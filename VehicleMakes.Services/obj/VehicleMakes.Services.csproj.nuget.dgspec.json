@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Services\\VehicleMakes.Services.csproj": {}
+    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Services\\VehicleMakes.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\VehicleMakes.Data.csproj": {
+    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\VehicleMakes.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\VehicleMakes.Data.csproj",
+        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\VehicleMakes.Data.csproj",
         "projectName": "VehicleMakes.Data",
-        "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\VehicleMakes.Data.csproj",
+        "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\VehicleMakes.Data.csproj",
         "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\obj\\",
+        "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj": {
+    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj",
         "projectName": "VehicleMakes.Infrastructure",
-        "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +104,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\VehicleMakes.Data.csproj": {
-                "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\VehicleMakes.Data.csproj"
+              "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\VehicleMakes.Data.csproj": {
+                "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\VehicleMakes.Data.csproj"
               }
             }
           }
@@ -184,14 +184,14 @@
         }
       }
     },
-    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Services\\VehicleMakes.Services.csproj": {
+    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Services\\VehicleMakes.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Services\\VehicleMakes.Services.csproj",
+        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Services\\VehicleMakes.Services.csproj",
         "projectName": "VehicleMakes.Services",
-        "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Services\\VehicleMakes.Services.csproj",
+        "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Services\\VehicleMakes.Services.csproj",
         "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Services\\obj\\",
+        "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,11 +209,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\VehicleMakes.Data.csproj": {
-                "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\VehicleMakes.Data.csproj"
+              "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\VehicleMakes.Data.csproj": {
+                "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\VehicleMakes.Data.csproj"
               },
-              "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj"
+              "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj"
               }
             }
           }

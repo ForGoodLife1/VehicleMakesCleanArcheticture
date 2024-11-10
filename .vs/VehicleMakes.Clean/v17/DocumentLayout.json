@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\",
+  "WorkspaceRootPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B044B3B1-D72B-44F5-8D66-E2643A2D0ED2}|VehicleMakes.Services\\VehicleMakes.Services.csproj|c:\\users\\fares\\source\\repos\\cleanarcheticture\\vehiclemakes.cleanarcheticture\\vehiclemakes.clean\\vehiclemakes.services\\implementations\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B044B3B1-D72B-44F5-8D66-E2643A2D0ED2}|VehicleMakes.Services\\VehicleMakes.Services.csproj|solutionrelative:vehiclemakes.services\\implementations\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\Migrations\\20241110163125_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VehicleMakes.Infrastructure\\Migrations\\20241110163125_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33FDCA0D-47F0-4714-9A98-9508A60F7863}|VehicleMakes.Core\\VehicleMakes.Core.csproj|c:\\users\\fares\\source\\repos\\cleanarcheticture\\vehiclemakes.cleanarcheticture\\vehiclemakes.clean\\vehiclemakes.core\\feautres\\authorization\\commands\\handlers\\claimscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33FDCA0D-47F0-4714-9A98-9508A60F7863}|VehicleMakes.Core\\VehicleMakes.Core.csproj|solutionrelative:vehiclemakes.core\\feautres\\authorization\\commands\\handlers\\claimscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2267D126-F801-4943-A159-610B239B083A}|VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj|c:\\users\\fares\\source\\repos\\cleanarcheticture\\vehiclemakes.cleanarcheticture\\back\\vehiclemakes.infrastructure\\appdbcontext\\vehiclemakesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2267D126-F801-4943-A159-610B239B083A}|VehicleMakes.Infrastructure\\VehicleMakes.Infrastructure.csproj|solutionrelative:vehiclemakes.infrastructure\\appdbcontext\\vehiclemakesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClaimsCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Core\\Feautres\\Authorization\\Commands\\Handlers\\ClaimsCommandHandler.cs",
-              "RelativeDocumentMoniker": "VehicleMakes.Core\\Feautres\\Authorization\\Commands\\Handlers\\ClaimsCommandHandler.cs",
-              "ToolTip": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Core\\Feautres\\Authorization\\Commands\\Handlers\\ClaimsCommandHandler.cs",
-              "RelativeToolTip": "VehicleMakes.Core\\Feautres\\Authorization\\Commands\\Handlers\\ClaimsCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "DocumentIndex": 0,
+              "Title": "20241110163125_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\Migrations\\20241110163125_InitialCreate.cs",
+              "RelativeDocumentMoniker": "VehicleMakes.Infrastructure\\Migrations\\20241110163125_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\Migrations\\20241110163125_InitialCreate.cs",
+              "RelativeToolTip": "VehicleMakes.Infrastructure\\Migrations\\20241110163125_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T10:55:32.174Z",
+              "WhenOpened": "2024-11-10T16:31:26.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationUserService.cs",
-              "DocumentMoniker": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Services\\Implementations\\ApplicationUserService.cs",
-              "RelativeDocumentMoniker": "VehicleMakes.Services\\Implementations\\ApplicationUserService.cs",
-              "ToolTip": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Services\\Implementations\\ApplicationUserService.cs",
-              "RelativeToolTip": "VehicleMakes.Services\\Implementations\\ApplicationUserService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAApwBoAAAA3AAAA",
+              "DocumentIndex": 1,
+              "Title": "VehicleMakesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\AppDbContext\\VehicleMakesDbContext.cs",
+              "RelativeDocumentMoniker": "VehicleMakes.Infrastructure\\AppDbContext\\VehicleMakesDbContext.cs",
+              "ToolTip": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Infrastructure\\AppDbContext\\VehicleMakesDbContext.cs",
+              "RelativeToolTip": "VehicleMakes.Infrastructure\\AppDbContext\\VehicleMakesDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAADIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T10:55:28.87Z",
+              "WhenOpened": "2024-11-10T16:20:24.478Z",
               "EditorCaption": ""
             }
           ]

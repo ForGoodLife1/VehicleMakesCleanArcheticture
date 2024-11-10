@@ -1,7 +1,10 @@
-﻿namespace VehicleMakes.Data.Entities;
+﻿using VehicleMakes.Data.Commons;
 
-public partial class MakeModel
+namespace VehicleMakes.Data.Entities;
+
+public partial class MakeModel : GeneralLocalizableEntity
 {
+
     public int ModelId { get; set; }
 
     public int MakeId { get; set; }

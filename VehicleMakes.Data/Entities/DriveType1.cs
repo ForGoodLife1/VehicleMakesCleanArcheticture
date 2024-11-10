@@ -1,7 +1,10 @@
-﻿namespace VehicleMakes.Data.Entities;
+﻿using VehicleMakes.Data.Commons;
 
-public partial class DriveType1
+namespace VehicleMakes.Data.Entities;
+
+public partial class DriveType1 : GeneralLocalizableEntity
 {
+
     public int DriveTypeId { get; set; }
 
     public string DriveTypeNameAr { get; set; } = null!;

@@ -3,7 +3,7 @@ using VehicleMakes.Data.Entities.Identity;
 
 namespace VehicleMakes.Core.Mapping.ApplicationUser
 {
-    public partial class ApplicationUserProfile
+    public partial class VehicleDetailProfile
     {
         public void UpdateUserMapping()
         {

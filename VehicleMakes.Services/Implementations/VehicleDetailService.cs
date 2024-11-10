@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Serilog;
 using VehicleDetails.Services.Abstracts;
 using VehicleMakes.Data.Entities;
 using VehicleMakes.Data.Enums;
@@ -38,21 +39,21 @@ namespace VehicleMakes.Services.Implementations
             return "Success";
         }
 
-        public async Task<bool> IsNameArExist(string nameAr)
-        {
-            //Check if the name is Exist Or not
-            var VehicleDetail = _VehicleDetailRepository.GetTableNoTracking().Where(x => x.NameAr.Equals(nameAr)).FirstOrDefault();
-            if (VehicleDetail == null) return false;
-            return true;
-        }
+        /* public async Task<bool> IsNameArExist(string nameAr)
+         {
+             //Check if the name is Exist Or not
+             var VehicleDetail = _VehicleDetailRepository.GetTableNoTracking().Where(x => x.NameAr.Equals(nameAr)).FirstOrDefault();
+             if (VehicleDetail == null) return false;
+             return true;
+         }
 
-        public async Task<bool> IsNameArExistExcludeSelf(string nameAr, int id)
-        {
-            //Check if the name is Exist Or not
-            var VehicleDetail = await _VehicleDetailRepository.GetTableNoTracking().Where(x => x.NameAr.Equals(nameAr) & !x.StudID.Equals(id)).FirstOrDefaultAsync();
-            if (VehicleDetail == null) return false;
-            return true;
-        }
+         public async Task<bool> IsNameArExistExcludeSelf(string nameAr, int id)
+         {
+             //Check if the name is Exist Or not
+             var VehicleDetail = await _VehicleDetailRepository.GetTableNoTracking().Where(x => x.NameAr.Equals(nameAr) & !x.StudID.Equals(id)).FirstOrDefaultAsync();
+             if (VehicleDetail == null) return false;
+             return true;
+         }*/
 
         public async Task<string> EditAsync(VehicleDetail VehicleDetail)
         {
@@ -86,50 +87,56 @@ namespace VehicleMakes.Services.Implementations
 
         public IQueryable<VehicleDetail> GetVehicleDetailsQuerable()
         {
-            return _VehicleDetailRepository.GetTableNoTracking().Include(x => x.Department).AsQueryable();
+            return _VehicleDetailRepository.GetTableNoTracking().Include(x => x.Body)
+                                                                .Include(x => x.DriveType)
+                                                                .Include(x => x.SubModel)
+                                                                .Include(x => x.FuelType).AsQueryable();
         }
 
         public IQueryable<VehicleDetail> FilterVehicleDetailPaginatedQuerable(VehicleDetailOrderingEnum orderingEnum, string search)
         {
-            var querable = _VehicleDetailRepository.GetTableNoTracking().Include(x => x.Department).AsQueryable();
+            var querable = _VehicleDetailRepository.GetTableNoTracking().Include(x => x.Body)
+                                                                        .Include(x => x.FuelType)
+                                                                        .Include(x => x.SubModel)
+                                                                        .Include(x => x.DriveType).AsQueryable();
             if (search != null)
             {
-                querable = querable.Where(x => x.NameAr.Contains(search) || x.Address.Contains(search));
+                querable = querable.Where(x => x.VehicleDisplayName.Contains(search) || x.NumDoors.Equals(search));
             }
             switch (orderingEnum)
             {
-                case VehicleDetailOrderingEnum.StudID:
-                    querable = querable.OrderBy(x => x.StudID);
+                case VehicleDetailOrderingEnum.Id:
+                    querable = querable.OrderBy(x => x.Id);
                     break;
-                case VehicleDetailOrderingEnum.Name:
-                    querable = querable.OrderBy(x => x.NameAr);
+                case VehicleDetailOrderingEnum.VehicleDisplayName:
+                    querable = querable.OrderBy(x => x.VehicleDisplayName);
                     break;
-                case VehicleDetailOrderingEnum.Address:
-                    querable = querable.OrderBy(x => x.Address);
+                case VehicleDetailOrderingEnum.Engine:
+                    querable = querable.OrderBy(x => x.Engine);
                     break;
-                case VehicleDetailOrderingEnum.DepartmentName:
-                    querable = querable.OrderBy(x => x.Department.DNameAr);
+                case VehicleDetailOrderingEnum.BodyName:
+                    querable = querable.OrderBy(x => x.Body.BodyNameEn);
                     break;
             }
 
             return querable;
         }
 
-        public async Task<bool> IsNameEnExist(string nameEn)
-        {
-            //Check if the name is Exist Or not
-            var VehicleDetail = _VehicleDetailRepository.GetTableNoTracking().Where(x => x.NameEn.Equals(nameEn)).FirstOrDefault();
-            if (VehicleDetail == null) return false;
-            return true;
-        }
+        /*   public async Task<bool> IsNameEnExist(string nameEn)
+           {
+               //Check if the name is Exist Or not
+               var VehicleDetail = _VehicleDetailRepository.GetTableNoTracking().Where(x => x.NameEn.Equals(nameEn)).FirstOrDefault();
+               if (VehicleDetail == null) return false;
+               return true;
+           }
 
-        public async Task<bool> IsNameEnExistExcludeSelf(string nameEn, int id)
-        {
-            //Check if the name is Exist Or not
-            var VehicleDetail = await _VehicleDetailRepository.GetTableNoTracking().Where(x => x.NameEn.Equals(nameEn) & !x.StudID.Equals(id)).FirstOrDefaultAsync();
-            if (VehicleDetail == null) return false;
-            return true;
-        }
+           public async Task<bool> IsNameEnExistExcludeSelf(string nameEn, int id)
+           {
+               //Check if the name is Exist Or not
+               var VehicleDetail = await _VehicleDetailRepository.GetTableNoTracking().Where(x => x.NameEn.Equals(nameEn) & !x.StudID.Equals(id)).FirstOrDefaultAsync();
+               if (VehicleDetail == null) return false;
+               return true;
+           }*/
 
         public IQueryable<VehicleDetail> GetVehicleDetailsByDriveType1IDQuerable(int DID)
         {

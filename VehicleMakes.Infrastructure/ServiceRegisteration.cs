@@ -102,17 +102,17 @@ namespace VehicleMakes.Infrustructure
 
             services.AddAuthorization(option =>
             {
-                option.AddPolicy("CreateStudent", policy =>
+                option.AddPolicy("CreateVehicleDetail", policy =>
                 {
-                    policy.RequireClaim("Create Student", "True");
+                    policy.RequireClaim("Create VehicleMakes", "True");
                 });
-                option.AddPolicy("DeleteStudent", policy =>
+                option.AddPolicy("DeleteVehicleMakes", policy =>
                 {
-                    policy.RequireClaim("Delete Student", "True");
+                    policy.RequireClaim("Delete VehicleMakes", "True");
                 });
-                option.AddPolicy("EditStudent", policy =>
+                option.AddPolicy("EditVehicleMakes", policy =>
                 {
-                    policy.RequireClaim("Edit Student", "True");
+                    policy.RequireClaim("Edit VehicleMakes", "True");
                 });
             });
 

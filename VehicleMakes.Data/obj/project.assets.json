@@ -2057,11 +2057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\VehicleMakes.Data.csproj",
+      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\VehicleMakes.Data.csproj",
       "projectName": "VehicleMakes.Data",
-      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\VehicleMakes.Data.csproj",
+      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\VehicleMakes.Data.csproj",
       "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Data\\obj\\",
+      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",

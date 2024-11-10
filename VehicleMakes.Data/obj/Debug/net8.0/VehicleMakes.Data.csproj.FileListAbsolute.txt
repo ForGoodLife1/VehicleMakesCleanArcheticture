@@ -10,3 +10,16 @@ C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Veh
 C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Data\obj\Debug\net8.0\VehicleMakes.Data.pdb
 C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Data\obj\Debug\net8.0\ref\VehicleMakes.Data.dll
 C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\VehicleMakes.Clean\VehicleMakes.Data\obj\Debug\net8.0\VehicleMakes.Data.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\bin\Debug\net8.0\VehicleMakes.Data.deps.json
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\bin\Debug\net8.0\VehicleMakes.Data.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\bin\Debug\net8.0\VehicleMakes.Data.pdb
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\obj\Debug\net8.0\VehicleMakes.Data.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\obj\Debug\net8.0\VehicleMakes.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\obj\Debug\net8.0\VehicleMakes.Data.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\obj\Debug\net8.0\VehicleMakes.Data.AssemblyInfo.cs
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\obj\Debug\net8.0\VehicleMakes.Data.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\obj\Debug\net8.0\VehicleMakes.Data.sourcelink.json
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\obj\Debug\net8.0\VehicleMakes.Data.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\obj\Debug\net8.0\refint\VehicleMakes.Data.dll
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\obj\Debug\net8.0\VehicleMakes.Data.pdb
+C:\Users\fares\source\repos\CleanArcheticture\VehicleMakes.CleanArcheticture\Back\VehicleMakes.Data\obj\Debug\net8.0\ref\VehicleMakes.Data.dll

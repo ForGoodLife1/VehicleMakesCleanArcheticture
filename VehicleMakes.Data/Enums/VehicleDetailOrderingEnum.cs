@@ -2,9 +2,9 @@
 {
     public enum VehicleDetailOrderingEnum
     {
-        StudID = 0,
-        Name = 1,
-        Address = 2,
-        DepartmentName = 3
+        Id = 0,
+        VehicleDisplayName = 1,
+        Engine = 2,
+        BodyName = 3
     }
 }

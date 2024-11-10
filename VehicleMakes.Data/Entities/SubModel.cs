@@ -1,7 +1,10 @@
-﻿namespace VehicleMakes.Data.Entities;
+﻿using VehicleMakes.Data.Commons;
 
-public partial class SubModel
+namespace VehicleMakes.Data.Entities;
+
+public partial class SubModel : GeneralLocalizableEntity
 {
+
     public int SubModelId { get; set; }
 
     public int ModelId { get; set; }

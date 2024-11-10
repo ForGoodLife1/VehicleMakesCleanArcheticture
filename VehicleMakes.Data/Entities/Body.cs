@@ -1,6 +1,8 @@
-﻿namespace VehicleMakes.Data.Entities;
+﻿using VehicleMakes.Data.Commons;
 
-public partial class Body
+namespace VehicleMakes.Data.Entities;
+
+public partial class Body : GeneralLocalizableEntity
 {
     public int BodyId { get; set; }
 

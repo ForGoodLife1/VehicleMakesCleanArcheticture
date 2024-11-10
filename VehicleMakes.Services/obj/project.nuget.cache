@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B5+MKVgxZZk=",
+  "dgSpecHash": "FL7QMc7pUb8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes.Services\\VehicleMakes.Services.csproj",
+  "projectFilePath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes.Services\\VehicleMakes.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fares\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\fares\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

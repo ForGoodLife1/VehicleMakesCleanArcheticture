@@ -2,9 +2,9 @@
 
 namespace VehicleMakes.Core.Mapping.ApplicationUser
 {
-    public partial class ApplicationUserProfile : Profile
+    public partial class VehicleDetailProfile : Profile
     {
-        public ApplicationUserProfile()
+        public VehicleDetailProfile()
         {
             AddUserMapping();
             GetUserPaginationMapping();

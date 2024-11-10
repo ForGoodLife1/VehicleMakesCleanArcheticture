@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q5Vo9xF+J1k=",
+  "dgSpecHash": "8DGxqC/TPp4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\VehicleMakes.Clean\\VehicleMakes\\VehicleMakes.Api.csproj",
+  "projectFilePath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\VehicleMakes.CleanArcheticture\\Back\\VehicleMakes\\VehicleMakes.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fares\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\fares\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

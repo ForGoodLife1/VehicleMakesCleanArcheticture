@@ -16,10 +16,7 @@ namespace VehicleMakes.Infrastructure.Repositories
             _make = dBContext.Set<Make>();
         }
 
-        public Task<List<Make>> GetStudentsListAsync()
-        {
-            throw new NotImplementedException();
-        }
+
 
 
 

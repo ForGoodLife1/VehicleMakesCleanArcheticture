@@ -1,7 +1,10 @@
-﻿namespace VehicleMakes.Data.Entities;
+﻿using VehicleMakes.Data.Commons;
 
-public partial class FuelType
+namespace VehicleMakes.Data.Entities;
+
+public partial class FuelType : GeneralLocalizableEntity
 {
+
     public int FuelTypeId { get; set; }
 
     public string FuelTypeNameAr { get; set; } = null!;

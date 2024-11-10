@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.Localization;
-
 using VehicleMakes.Core.Resources;
 
 namespace VehicleMakes.Core.Bases
